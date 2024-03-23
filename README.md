@@ -47,35 +47,4 @@ REPORTS_CREATION:
 A report is a visual representation of data in a structured format, such as tables, charts, and graphs, which provides insights into the data. It typically focuses on a specific aspect of the data, such as sales performance or customer behavior.
 
 
-Data Visualization using various charts in Dashboard:
 
-List:
-This visualization displays a list of all the states in India, providing an overview of the available data.
-
-
-Bar Stacked Column Chart:
-This visualization shows the unemployment rate and labor participation rate of each state in India in a single chart. By hovering over a specific bar or clicking on it, users can see the specific values for both rates, making it easy to compare states and identify patterns.
-
-
-Donut Chart:
-This visualization displays the percentage of unemployed people in each state in India, providing a quick overview of the distribution of unemployment across the country.
-
-
-Card:
-This visualization displays the average unemployment rate, average employment rate, or average labor participation rate across all the states in India, making it easy to see the overall trends in the data.
-
-
-Multi-Row Card:
-This visualization displays the unemployment rate and labor participation rate for a single state in India, providing a detailed view of the data for a specific region.
-
-
-Multi-Column Card:
-This visualization displays the longitude and latitude coordinates for a single state in India, providing geographic context to the data.
-
-
-Map:
-This visualization displays a map of India with all the states marked. By clicking on a specific state, users can see the detailed data for that region, making it easy to explore the data and identify trends.
-
-
-REPORTS_CREATION:
-A dashboard, on the other hand, is a collection of reports and visualizations that provide a high-level view of the data, allowing users to monitor key metrics and identify trends or patterns. Dashboards often include interactive features such as filters and drill-downs, which allow users to explore the data in more detail.
